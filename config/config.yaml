@@ -1,9 +1,9 @@
-# Here we give the procedure to 
+# Here we give the procedure to automatically do collection of data
 artifacts_root : artifacts
 
 
 data_ingestion:
   root_dir: artifacts/data_ingestion
-  source_URL: https://github.com/entbappy/Branching-tutorial/raw/master/winequality-data.zip
+  source_URL: https://github.com/X-sena-X/EndToEndMLop/raw/main/data/winequality-data.zip
   local_data_file: artifacts/data_ingestion/data.zip
   unzip_dir: artifacts/data_ingestion

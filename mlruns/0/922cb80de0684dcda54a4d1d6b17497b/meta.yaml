@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/senaabhishek/Spyder%20Projects/EndToEndMLop/mlruns/0/922cb80de0684dcda54a4d1d6b17497b/artifacts
+end_time: 1691748421080
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 922cb80de0684dcda54a4d1d6b17497b
+run_name: indecisive-croc-179
+run_uuid: 922cb80de0684dcda54a4d1d6b17497b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691748421065
+status: 4
+tags: []
+user_id: senaabhishek

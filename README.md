@@ -1,4 +1,6 @@
-# EndToEndMLop\
+# EndToEnd Mlops Projects with Mlflow integrated
+
+check app at: http://3.108.62.164:8080/
 
  @ensure_annotations is a decorator to check the input parameters type for production level importance
 
@@ -24,7 +26,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow
+https://github.com/X-sena-X/EndToEndMLop.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -152,11 +154,11 @@ export MLFLOW_TRACKING_PASSWORD=262488a71dcbed1cd58fe6f82a2d1cbe5db8ce9a
 
     AWS_SECRET_ACCESS_KEY=
 
-    AWS_REGION = us-east-1
+    AWS_REGION = ap-south-1
 
-    AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
+    AWS_ECR_LOGIN_URI =   566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
-    ECR_REPOSITORY_NAME = simple-app
+    ECR_REPOSITORY_NAME = mlproj
 
 
 
